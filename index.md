@@ -1,4 +1,4 @@
 ---
-title: I am actually two marshmellows in a trench coat
+title: I am actually two marshmallows in a trench coat
 ---
 
